@@ -1,3 +1,4 @@
 Franklin Perez 
 Edad: 22
-Le gusta pescar.
+Le gusta pescar y hacer ejercicio.
+No le gusta bailar.
